@@ -1,0 +1,17 @@
+.tag-button {
+  font-size: 12px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  background-color: #000000;
+  height: 20px;
+  width: 90px;
+  color: #ffffff;
+  border-radius: 10px;
+  margin-right: 8px;
+  margin-bottom: 4px;
+  border: 1px solid #f3aa4e;
+}
+
+.tag-list-item {
+  list-style-type: none;
+}
